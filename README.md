@@ -88,8 +88,16 @@ motto: "Sleep is a bug I haven't patched yet"
 
 <p align="center">
 
-[![Aravindan's GitHub stats](https://github-stats-extended.vercel.app/api?username=Vortex-Scurge)](https://github.com/stats-organization/github-stats-extended)
+[![Aravindan's GitHub stats](https://github-stats-extended.vercel.app/api?username=Vortex-Scurge&theme=radical&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
+</p>
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vortex-Scurge&theme=radical&layout=compact&hide_border=false"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Vortex-Scurge&theme=radical&hide_border=false"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/PuruVJ/PuruVJ/main/wave.svg" width="100%">
@@ -97,15 +105,7 @@ motto: "Sleep is a bug I haven't patched yet"
 ## 🏆 Trophy Cabinet
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vortex-Scurge&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/PuruVJ/PuruVJ/main/wave.svg" width="100%">
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Vortex-Scurge/Vortex-Scurge/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-trophies.vercel.app/?username=Vortex-Scurge&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/PuruVJ/PuruVJ/main/wave.svg" width="100%">

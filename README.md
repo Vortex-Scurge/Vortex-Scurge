@@ -33,7 +33,7 @@ motto: "Sleep is a bug I haven't patched yet"
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://discord.gg/RmznvKyc"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/cDDaFfcD"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.instagram.com/arvnd.doingstuff"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aravindan-ravichandran-2b2144337/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.reddit.com/u/Vortex_Scurge"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>

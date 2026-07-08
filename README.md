@@ -1,68 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=ARAVINDAN&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Hacker%20%7C%20Builder%20%7C%20Idea%20Machine&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=ARAVINDAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hacker%20%7C%20Builder%20%7C%20Idea%20Machine&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=sudo+access+granted...;Breaking+things+legally+since+forever;Cooking+startup+ideas+at+3AM+%F0%9F%9A%80;Python+%7C+Linux+%7C+Networking+%7C+CTFs;Caffeine.exe+is+running..."/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=sudo+access+granted...;Breaking+things+legally+since+forever;Cooking+startup+ideas+at+3AM;Python+%7C+Linux+%7C+Networking+%7C+CTFs;Caffeine.exe+is+running..."/>
 
 <img src="https://komarev.com/ghpvc/?username=Vortex-Scurge&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Vortex-Scurge?label=FOLLOW&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/PuruVJ/PuruVJ/main/wave.svg" width="100%">
+---
 
-## 🧠 `whoami`
+## 🧠 whoami
 
 ```yaml
 role: Dev / Security Tinkerer / Idea Machine
-mission: Build → Break → Fix → Ship → Repeat
+mission: Build -> Break -> Fix -> Ship -> Repeat
 weapons: [Python, Linux, Networking, Bash, CTFs]
 current_obsession: turning 3AM ideas into real projects
-side_quests: 50+ startup ideas, shipped: still counting 🚀
-fuel: Caffeine (IV drip pending) ☕
-status: 🟢 online, 🌙 awake when I shouldn't be
+fuel: Caffeine
+status: awake when I shouldn't be
 motto: "Sleep is a bug I haven't patched yet"
 ```
 
-<img src="https://raw.githubusercontent.com/PuruVJ/PuruVJ/main/wave.svg" width="100%">
+- 🔐 Learning Cybersecurity — labs, CTFs, breaking stuff (legally)
+- 💻 Writing scripts and automating things that don't need automating, but do now
+- 🚀 Constantly cooking up startup ideas at 2AM
+- 🌙 Peak productivity hours: everyone else's bedtime
+- ☕ Running on caffeine, curiosity, and unfinished side projects
 
-## ⚡ The Chaos, Summarized
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Security Side
-- Learning offensive & defensive security
-- CTFs, labs, vuln hunting for fun
-- Networking internals & packet chasing
-- Break it → understand it → fix it
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Builder Side
-- Python scripts for stuff nobody asked for
-- Automating tasks that took less time manually
-- Prototyping startup ideas faster than validating them
-- Shipping half-finished things with full confidence
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/PuruVJ/PuruVJ/main/wave.svg" width="100%">
-
-## 🚀 Currently Cooking
-
-```diff
-+ [ACTIVE]    Startup idea #47 - top secret, will leak eventually
-+ [ACTIVE]    Automating my entire digital life with scripts
-~ [TESTING]   Some CTF writeups incoming
-- [ARCHIVED]  17 other startup ideas (RIP, 2AM logic doesn't scale)
-```
-
-<img src="https://raw.githubusercontent.com/PuruVJ/PuruVJ/main/wave.svg" width="100%">
+---
 
 ## 🌐 Connect With Me
 
@@ -74,56 +40,38 @@ motto: "Sleep is a bug I haven't patched yet"
 <a href="mailto:aravinanravichandiran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/PuruVJ/PuruVJ/main/wave.svg" width="100%">
+---
 
 ## 🛠️ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,js,html,python,php,powershell,bash,linux,kali,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,java,js,html,python,php,powershell,bash,linux,kali,git,github,vscode,figma"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/PuruVJ/PuruVJ/main/wave.svg" width="100%">
+---
 
 ## 📊 The Numbers
 
 <p align="center">
-
-[![Aravindan's GitHub stats](https://github-stats-extended.vercel.app/api?username=Vortex-Scurge&theme=radical&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
-
+<img src="images/userstats.svg" alt="Aravindan's GitHub Stats"/>
 </p>
 
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vortex-Scurge&theme=radical&layout=compact&hide_border=false"/>
-</p>
+<!-- ^ This one is self-hosted via GitHub Actions (set up already) - will never break -->
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Vortex-Scurge&theme=radical&hide_border=false"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/PuruVJ/PuruVJ/main/wave.svg" width="100%">
+---
 
 ## 🏆 Trophy Cabinet
 
 <p align="center">
-<img src="https://github-trophies.vercel.app/?username=Vortex-Scurge&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-trophies.vercel.app/?username=Vortex-Scurge&theme=onedark&no-frame=false&margin-w=4&row=1"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/PuruVJ/PuruVJ/main/wave.svg" width="100%">
-
-## ✍️ Quote of the Session
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+---
 
 <div align="center">
 
-### 💀 "There are two types of people: those who back up their data, and those who will."
+### "There are two types of people: those who back up their data, and those who will."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
-
-[![](https://visitcount.itsvg.in/api?id=Vortex-Scurge&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
-
-<!-- ⚡ Built at 3AM, powered by caffeine and questionable life choices -->

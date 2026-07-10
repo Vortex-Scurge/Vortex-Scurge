@@ -56,7 +56,7 @@ motto: "Sleep is a bug I haven't patched yet"
 <img src="images/userstats.svg" alt="Aravindan's GitHub Stats"/>
 </p>
 
-<!-- ^ This one is self-hosted via GitHub Actions (set up already) - will never break -->
+<!-- ^ This one is self-hosted via GitHub Actions (set up already done) - will never break -->
 
 ---
 
